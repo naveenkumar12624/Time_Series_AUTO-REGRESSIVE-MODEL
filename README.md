@@ -6,6 +6,7 @@
 
 ### AIM:
 To implement an Auto Regressive Model using Python
+
 ### ALGORITHM:
 1. Import necessary libraries
 2. Read the CSV file into a DataFrame
@@ -14,6 +15,8 @@ To implement an Auto Regressive Model using Python
 5. Plot Partial Autocorrelation Function (PACF) and Autocorrelation Function (ACF)
 6. Make predictions using the AR model.Compare the predictions with the test data
 7. Calculate Mean Squared Error (MSE).Plot the test data and predictions.
+
+   
 ### PROGRAM
 ```python
 import numpy as np
@@ -78,16 +81,16 @@ plt.show()
 ### OUTPUT:
 
 ### GIVEN DATA
-![image](https://github.com/user-attachments/assets/95bf650d-dd2e-437d-8097-d0486383a5cd)
+<img src="https://github.com/user-attachments/assets/95bf650d-dd2e-437d-8097-d0486383a5cd" width="300">
 
 ### PACF - ACF
-![download](https://github.com/user-attachments/assets/3ce781d9-9b19-4a21-aaaa-45c5b5ecb595)
+<img src="https://github.com/user-attachments/assets/3ce781d9-9b19-4a21-aaaa-45c5b5ecb595" width ="500">
 
 ### PREDICTION
-![download](https://github.com/user-attachments/assets/723b37e8-d185-4fbd-9749-1421440562ea)
+<img src="https://github.com/user-attachments/assets/723b37e8-d185-4fbd-9749-1421440562ea" width ="500">
 
 ### FINIAL PREDICTION
-![download](https://github.com/user-attachments/assets/1823bd93-6640-4787-9980-e8a119e2bd6f)
+<img src="https://github.com/user-attachments/assets/1823bd93-6640-4787-9980-e8a119e2bd6f" width ="500">
 
 ### RESULT:
 Thus, implemention of the auto regression function using python is done successfully.
